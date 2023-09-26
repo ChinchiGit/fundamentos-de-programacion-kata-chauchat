@@ -39,8 +39,8 @@ Nuestro ejercicio, será hacer una Chauchat virtual, que reproduzca su comportam
 1. Por un lado habrás de crear una variable `cargador` donde habrá de guardar unos 7 **_"pium!"_**
 
 2. El otro elemento será nuestra **chauchat**, que "hace cosas", y será donde pondremos el cargador para que haga cosas.
-
-    `chauchat(cargador)`
+`chauchat(cargador)`
+    
 
     Cuando ejecutemos dicho código, veremos impresos todos los **_"pium!"_** del cargador, uno tras otro.
 
